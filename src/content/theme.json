@@ -1,0 +1,8 @@
+{
+  "primaryColor": "#0f766e",
+  "secondaryColor": "#7c3aed",
+  "fontFamily": "\"Fraunces\", \"IBM Plex Sans\", serif",
+  "baseFontSize": "16px",
+  "spacingUnit": "0.25rem",
+  "borderRadius": "0.5rem"
+}
